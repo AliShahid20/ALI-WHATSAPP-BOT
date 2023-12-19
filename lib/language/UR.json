@@ -1,0 +1,15 @@
+{
+    "_ELISAJSON_": سچ،
+    "LanguAGE": "سنہالا"،
+    "LANGCODE": "SI",
+    "AUTHOR": "MR.NIMA"،
+    "STRINGS": {
+        "elisabot": {
+            "COMMAND": "کمانڈ"،
+            "DESC": "تفصیل"،
+            "EXAMPLE": "مثال"،
+            "NOT_FOUND": "*مجھے ایسا کوئی حکم نہیں مل سکا*",
+            "WARN": "انتباہ"،
+            "NEXT_BUTTON" : "اگلا ▶",
+            "BACK_BUTTON" : "◀ پیچھے"،
+
