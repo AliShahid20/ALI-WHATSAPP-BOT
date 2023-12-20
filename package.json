@@ -4,7 +4,7 @@
   "description": "ALI Whatsapp Bot",
   "type": "commonjs",
   "scripts": {
-    "start": "node --max_old_space_size=8192 lib/runner/index.js"
+    "start": "node --max_old_space_size=8192 lib/runner/ScholarlyOilyCookie/index.js"
   },
   "keywords": [
     "termux-bot",
