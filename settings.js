@@ -5,11 +5,10 @@
 ▒▒████████░░▒▒██░░░░░░░░░██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ▒▒█░░░░░░█░░▒▒██████░░░██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-WHATSAPP BOT BY MR Ali ( Star OP )
+WHATSAPP BOT BY MR ALISHAHID ( Star OP )
 
 WHATSAPP - +923043942429
-SUPPORT GROUP - https://t.me/queenelisasupport
-YOUTUBE - http://youtube.com/MRNIMAOFC
+
 
 
 ℹ️ SPECIAL INFORMATION ℹ️
